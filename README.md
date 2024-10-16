@@ -6,6 +6,8 @@ My name is Chen Farn Hean, a final year student majoring in Software Engineering
 
 -** Fun fact**: I play the piano and saxophone
 
+![My Image](image.jpg)  <!-- https://github.com/SoftwareMaintenanceEvolution/tutorial-1-hendrickhere/blob/profile-upload/photo6179203933503860028.jpg --> 
+
 ##Github profile
 
 You can view my personalized GitHub profile [here](https://github.com/hendrickhere).
